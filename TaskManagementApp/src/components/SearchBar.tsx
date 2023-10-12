@@ -27,17 +27,4 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
     );
 };
 
-// const styles = StyleSheet.create({
-//     container: {
-//         flexDirection: 'row',
-//         alignItems: 'center',
-//     },
-//     input: {
-//         flex: 1,
-//         padding: 10,
-//         borderBottomWidth: 1,
-//         marginRight: 10,
-//     },
-// });
-
 export default SearchBar;
